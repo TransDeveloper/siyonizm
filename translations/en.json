@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Zionism",
+    "subtitle": "Zionism (Hebrew: צִיּוֹנוּת, romanized: Tsiyyonut) is a nationalist movement that emerged in the 19th century to enable the establishment of a homeland for the Jewish people in Palestine, a region roughly corresponding to the Land of Israel in Jewish tradition. Following the establishment of Israel, Zionism became an ideology that supports the development and protection of the State of Israel as a Jewish state."
+  },
+  "sections": {
+    "whatIsZionism": {
+      "title": "Definition and Etymology",
+      "description1": "The term 'Zionism' is derived from the word 'Zion' (Hebrew: צִיּוֹן, romanized: Tsiyyon), which originally referred to a specific mountain near Jerusalem (Mount Zion) and later became a metonym for the entire Land of Israel. The movement was formally established at the First Zionist Congress in Basel, Switzerland (1897), under the leadership of Theodor Herzl, who articulated the vision of a Jewish state in the Land of Israel in his influential work 'Der Judenstaat' (The Jewish State, 1896).",
+      "description2": "Zionism combines religious, cultural, and national elements, uniting Jews around the world in their connection to the Land of Israel and their right to live there in peace and security. The movement represents the Jewish people's right to self-determination in their ancestral homeland, where they have maintained a continuous presence for over 3,000 years, as evidenced by archaeological findings and historical records.",
+      "sources": "Sources: The Jewish Virtual Library, The World Zionist Organization, The Central Zionist Archives, The Israel Antiquities Authority"
+    },
+    "historicalBackground": {
+      "title": "Historical Background",
+      "description": "The modern Zionist movement emerged in the context of 19th-century European nationalism and the rise of modern anti-Semitism. Key historical developments include:",
+      "points": {
+        "earlyZionism": "Early Zionist thinkers like Rabbi Yehuda Alkalai and Rabbi Zvi Hirsch Kalischer promoted the idea of Jewish return to Palestine in the mid-19th century",
+        "firstAliyah": "The First Aliyah (1882-1903) saw approximately 35,000 Jews immigrate to Palestine, establishing agricultural settlements",
+        "herzl": "Theodor Herzl's leadership (1897-1904) transformed Zionism into a modern political movement",
+        "balfour": "The Balfour Declaration (1917) expressed British support for a Jewish national home in Palestine",
+        "mandate": "The British Mandate period (1920-1948) saw significant Jewish immigration and development",
+        "independence": "The establishment of the State of Israel (1948) marked the realization of Zionist aspirations"
+      },
+      "sources": "Sources: The Central Zionist Archives, The Israel State Archives, The Balfour Project, The Jewish Historical Society"
+    },
+    "corePrinciples": {
+      "title": "Core Principles and Ideology",
+      "selfDetermination": {
+        "title": "Jewish Self-Determination",
+        "description": "The right of the Jewish people to determine their own future and live in their ancestral homeland, as recognized by the League of Nations (1922) and the United Nations (1947). This principle is enshrined in Israel's Declaration of Independence (1948) and is fundamental to the country's democratic system. The concept of Jewish self-determination is rooted in both historical connection to the land and international law.",
+        "source": "Source: Israel's Declaration of Independence, UN Resolution 181, The League of Nations Mandate for Palestine"
+      },
+      "culturalRevival": {
+        "title": "Cultural Revival",
+        "description": "The restoration and development of Jewish culture, language, and traditions in the modern era. This includes the revival of Hebrew as a spoken language (led by Eliezer Ben-Yehuda), the establishment of cultural institutions, and the preservation of Jewish heritage. The movement has successfully created a vibrant, diverse society that celebrates both ancient traditions and modern innovation. The Hebrew University of Jerusalem (established 1918) and the Technion (established 1912) became centers of cultural and scientific development.",
+        "source": "Source: The Academy of the Hebrew Language, The National Library of Israel, The Hebrew University Archives"
+      },
+      "nationalSecurity": {
+        "title": "National Security",
+        "description": "Ensuring the safety and security of Jewish people through the establishment of a sovereign state. Israel maintains a strong defense system while pursuing peace with its neighbors. The country's security policies are guided by the principle of protecting its citizens while upholding democratic values and human rights. The Israel Defense Forces (IDF) was established in 1948, incorporating various pre-state defense organizations.",
+        "source": "Source: Israel Ministry of Foreign Affairs, The Begin-Sadat Center for Strategic Studies, The IDF Archives"
+      }
+    },
+    "democraticValues": {
+      "title": "Democratic Values and Human Rights",
+      "description": "Israel's democratic system ensures equal rights and opportunities for all citizens, regardless of religion, ethnicity, or background. The country's legal framework protects individual freedoms while maintaining a balance between majority rule and minority rights. Israel's Basic Laws serve as a de facto constitution, guaranteeing fundamental rights and freedoms.",
+      "points": {
+        "freedom": "Freedom of religion and worship for all faiths, with protected holy sites and religious institutions for all major religions. The 1967 Protection of Holy Places Law ensures access to religious sites for all faiths",
+        "equality": "Equal rights for all citizens under the law, with comprehensive anti-discrimination legislation and equal opportunity programs. The 2000 Prohibition of Discrimination in Products, Services, and Entry into Places of Entertainment and Public Places Law protects against discrimination",
+        "education": "Universal access to quality education and healthcare, with government support for all communities. The 1949 Compulsory Education Law ensures free education for all children",
+        "representation": "Full political representation for all communities, with guaranteed seats for minority parties in the Knesset. The 1958 Basic Law: The Knesset ensures proportional representation"
+      },
+      "sources": "Sources: Israel's Basic Laws, The Knesset, The Supreme Court of Israel, The Israel Democracy Institute"
+    },
+    "flourishingSociety": {
+      "title": "Social Development and Integration",
+      "description": "Israel's diverse society thrives under a system that protects and promotes the rights of all its citizens. The country has achieved remarkable progress in various fields while maintaining social cohesion and cultural diversity. The integration of immigrants from over 100 countries has created a unique multicultural society.",
+      "points": {
+        "minorities": "Minority communities enjoy full civil rights and representation, with dedicated government programs for economic and social development. The 2016 Government Resolution 922 allocated NIS 15 billion for Arab sector development",
+        "women": "Women's rights and gender equality are protected by law, with strong representation in politics, business, and academia. The 1951 Equal Rights for Women Law and subsequent legislation ensure gender equality",
+        "lgbtq": "LGBTQ+ rights are recognized and protected, with progressive legislation and active community support. The 1992 Basic Law: Human Dignity and Liberty protects against discrimination based on sexual orientation",
+        "education": "Universal access to quality education and healthcare, with world-class institutions and research centers. The 1994 National Health Insurance Law ensures universal healthcare coverage",
+        "economy": "Strong economy with opportunities for all citizens, featuring innovation hubs and global business connections. Israel's GDP per capita has grown from $1,200 in 1948 to over $54,000 in 2023"
+      },
+      "sources": "Sources: Israel Central Bureau of Statistics, The World Bank, OECD Reports, The Israel Innovation Authority"
+    },
+    "innovation": {
+      "title": "Scientific and Technological Advancement",
+      "description": "Israel's commitment to progress benefits all its citizens and contributes to global advancement. The country has become a world leader in various fields of innovation and research, with significant contributions to global technology, medicine, and environmental solutions.",
+      "points": {
+        "technology": "World-leading technology sector, with over 6,000 active startups and major global tech companies. Israel has the highest number of startups per capita globally and ranks third in global venture capital investments",
+        "medicine": "Advanced medical research and healthcare, with breakthrough treatments and universal healthcare coverage. Israeli researchers have developed innovative treatments for multiple sclerosis, cancer, and other diseases",
+        "environment": "Environmental protection and sustainability, with innovative solutions for water conservation and renewable energy. Israel recycles 90% of its wastewater and leads in desalination technology",
+        "education": "Excellence in education and research, with world-renowned universities and research institutions. Israeli universities consistently rank among the world's top 100 in various fields"
+      },
+      "sources": "Sources: Israel Innovation Authority, The World Economic Forum, Nature Index, The Israel Academy of Sciences and Humanities"
+    },
+    "contemporaryIssues": {
+      "title": "Contemporary Challenges and Developments",
+      "description": "Modern Zionism faces various challenges and opportunities in the 21st century, including:",
+      "points": {
+        "peace": "The pursuit of peace and regional cooperation, with various peace agreements and normalization efforts",
+        "diaspora": "Strengthening connections with Jewish communities worldwide and addressing issues of Jewish identity",
+        "democracy": "Maintaining democratic values while addressing security concerns and social challenges",
+        "innovation": "Continuing technological and scientific advancement while ensuring social and environmental sustainability"
+      },
+      "sources": "Sources: The Jewish Agency for Israel, The World Zionist Organization, The Israel Democracy Institute"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Sophia Abigail Eraslan. All rights reserved."
+  }
+} 

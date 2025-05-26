@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkında",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Siyonizm",
+    "subtitle": "Siyonizm (İbranice: צִיּוֹנוּת, romanize: Tsiyyonut), 19. yüzyılda Yahudi halkı için Filistin'de, Yahudi geleneğinde İsrail Toprağına karşılık gelen bir bölgede bir vatan kurulmasını sağlamak amacıyla ortaya çıkan milliyetçi bir harekettir. İsrail'in kurulmasının ardından Siyonizm, İsrail Devleti'nin Yahudi devleti olarak gelişimini ve korunmasını destekleyen bir ideolojiye dönüşmüştür."
+  },
+  "sections": {
+    "whatIsZionism": {
+      "title": "Tanım ve Etimoloji",
+      "description1": "'Siyonizm' terimi, başlangıçta Kudüs yakınlarında belirli bir dağa (Sion Dağı) atıfta bulunan ve daha sonra tüm İsrail Toprağı için bir mecaz haline gelen 'Sion' (İbranice: צִיּוֹן, romanize: Tsiyyon) kelimesinden türetilmiştir. Hareket, 1897 yılında İsviçre’nin Basel kentinde düzenlenen Birinci Siyonist Kongresi’nde, Theodor Herzl liderliğinde resmen kurulmuştur. Herzl, 1896 tarihli etkili eseri 'Der Judenstaat' (Yahudi Devleti) ile Yahudi devleti vizyonunu ortaya koymuştur.",
+      "description2": "Siyonizm, dini, kültürel ve ulusal unsurları birleştirerek dünya çapındaki Yahudileri İsrail Toprağı ile olan bağları ve orada barış ve güvenlik içinde yaşama hakları etrafında birleştirir. Hareket, Yahudi halkının, arkeolojik bulgular ve tarihsel kayıtlarla kanıtlandığı üzere 3.000 yılı aşkın süredir kesintisiz varlık gösterdiği atalarının vatanında kendi kaderini tayin etme hakkını temsil eder.",
+      "sources": "Kaynaklar: The Jewish Virtual Library, The World Zionist Organization, The Central Zionist Archives, The Israel Antiquities Authority"
+    },
+    "historicalBackground": {
+      "title": "Tarihsel Arka Plan",
+      "description": "Modern Siyonist hareket, 19. yüzyıl Avrupa milliyetçiliği ve modern antisemitizmin yükselişi bağlamında ortaya çıkmıştır. Temel tarihsel gelişmeler şunlardır:",
+      "points": {
+        "earlyZionism": "Yahudi halkının Filistin'e dönüşünü savunan ilk düşünürlerden Rabbi Yehuda Alkalai ve Rabbi Zvi Hirsch Kalischer, 19. yüzyıl ortalarında bu fikri yaygınlaştırdı",
+        "firstAliyah": "Birinci Alyah (1882–1903) sırasında yaklaşık 35.000 Yahudi Filistin'e göç ederek tarım yerleşimleri kurdu",
+        "herzl": "Theodor Herzl'in liderliği (1897–1904), Siyonizmi modern bir siyasi harekete dönüştürdü",
+        "balfour": "Balfour Deklarasyonu (1917), Filistin'de bir Yahudi ulusal yurdu kurulması için Britanya desteğini ifade etti",
+        "mandate": "Britanya Mandası dönemi (1920–1948), önemli Yahudi göçü ve kalkınma ile geçti",
+        "independence": "İsrail Devleti'nin kurulması (1948), Siyonist hedeflerin gerçekleştirilmesini simgeler"
+      },
+      "sources": "Kaynaklar: The Central Zionist Archives, The Israel State Archives, The Balfour Project, The Jewish Historical Society"
+    },
+    "corePrinciples": {
+      "title": "Temel İlkeler ve İdeoloji",
+      "selfDetermination": {
+        "title": "Yahudi Kendi Kaderini Tayin Hakkı",
+        "description": "Yahudi halkının kendi geleceğini belirleme ve atalarının vatanında yaşama hakkı, Milletler Cemiyeti (1922) ve Birleşmiş Milletler (1947) tarafından tanınmıştır. Bu ilke, İsrail'in 1948 tarihli Bağımsızlık Bildirgesi'nde yer almakta olup ülkenin demokratik sisteminin temelidir. Bu hak, hem tarihi bağlara hem de uluslararası hukuka dayanmaktadır.",
+        "source": "Kaynak: İsrail Bağımsızlık Bildirgesi, BM 181 No’lu Karar, Filistin için Milletler Cemiyeti Mandası"
+      },
+      "culturalRevival": {
+        "title": "Kültürel Canlanma",
+        "description": "Yahudi kültürü, dili ve geleneklerinin modern çağda yeniden canlandırılması ve geliştirilmesi. Bu, İbranice'nin konuşma dili olarak canlandırılmasını (Eliezer Ben-Yehuda önderliğinde), kültürel kurumların kurulmasını ve Yahudi mirasının korunmasını içerir. Hareket, kadim geleneklerle modern yenilikleri kutlayan canlı ve çeşitli bir toplum yaratmıştır. Kudüs İbrani Üniversitesi (1918) ve Technion (1912) bu gelişimin merkezlerindendir.",
+        "source": "Kaynak: İbranice Dil Akademisi, İsrail Ulusal Kütüphanesi, Kudüs İbrani Üniversitesi Arşivleri"
+      },
+      "nationalSecurity": {
+        "title": "Ulusal Güvenlik",
+        "description": "Yahudi halkının güvenliğini sağlamak amacıyla egemen bir devletin kurulması. İsrail güçlü bir savunma sistemi kurmuş ve komşularıyla barış arayışını sürdürmüştür. Ülkenin güvenlik politikaları, vatandaşlarını koruma ilkesine dayanır ve demokratik değerler ile insan haklarına saygı çerçevesinde yürütülür. İsrail Savunma Kuvvetleri (IDF), 1948’de kurulmuştur.",
+        "source": "Kaynak: İsrail Dışişleri Bakanlığı, Begin-Sadat Stratejik Araştırmalar Merkezi, IDF Arşivleri"
+      }
+    },
+    "democraticValues": {
+      "title": "Demokratik Değerler ve İnsan Hakları",
+      "description": "İsrail’in demokratik sistemi, din, etnik köken veya geçmiş fark etmeksizin tüm vatandaşlara eşit hak ve fırsatlar sağlar. Ülkenin yasal çerçevesi, bireysel özgürlükleri korurken çoğunluk yönetimi ve azınlık hakları arasında denge kurar. Temel Yasalar, fiili bir anayasa görevi görerek temel hakları güvence altına alır.",
+      "points": {
+        "freedom": "Tüm dinler için ibadet özgürlüğü ve kutsal yerlerin korunması. 1967 tarihli Kutsal Yerlerin Korunması Yasası, bu erişimi güvence altına alır",
+        "equality": "Tüm vatandaşlar için yasa önünde eşitlik ve ayrımcılık karşıtı kapsamlı yasalar. 2000 tarihli Eğlence ve Kamu Alanlarına Erişimde Ürün ve Hizmet Ayrımcılığı Yasağı Yasası buna örnektir",
+        "education": "Tüm topluluklar için ücretsiz ve kaliteli eğitim ve sağlık hizmetlerine erişim. 1949 tarihli Zorunlu Eğitim Yasası tüm çocuklara eğitim hakkı sağlar",
+        "representation": "Tüm topluluklar için tam siyasi temsil. Knesset'te azınlık partilerine ayrılan sandalyeler. 1958 tarihli Temel Yasa: Knesset, orantılı temsili güvence altına alır"
+      },
+      "sources": "Kaynaklar: İsrail Temel Yasaları, Knesset, İsrail Yüksek Mahkemesi, İsrail Demokrasi Enstitüsü"
+    },
+    "flourishingSociety": {
+      "title": "Toplumsal Gelişim ve Entegrasyon",
+      "description": "İsrail'in çeşitli toplumu, tüm vatandaşlarının haklarını koruyan ve teşvik eden bir sistem altında gelişmektedir. Ülke, sosyal uyum ve kültürel çeşitliliği koruyarak birçok alanda kayda değer ilerleme sağlamıştır. 100'den fazla ülkeden göçmenlerin entegrasyonu, benzersiz bir çok kültürlü toplum yaratmıştır.",
+      "points": {
+        "minorities": "Azınlık toplulukları tam medeni haklara ve temsile sahiptir; ekonomik ve sosyal gelişim için özel hükümet programları mevcuttur. 2016 tarihli 922 Sayılı Hükümet Kararı, Arap sektörüne 15 milyar NIS tahsis etmiştir",
+        "women": "Kadın hakları ve toplumsal cinsiyet eşitliği yasalarla korunur; siyaset, iş ve akademide güçlü temsile sahiptirler. 1951 tarihli Kadınlar İçin Eşit Haklar Yasası bu eşitliği güvence altına alır",
+        "lgbtq": "LGBTQ+ hakları tanınmakta ve korunmaktadır; ilerici yasalar ve aktif topluluk desteği ile. 1992 tarihli Temel Yasa: İnsan Onuru ve Özgürlüğü, cinsel yönelime dayalı ayrımcılığı yasaklar",
+        "education": "Kaliteli eğitim ve sağlık hizmetlerine evrensel erişim; dünya çapında tanınan kurum ve araştırma merkezleri ile",
+        "economy": "Tüm vatandaşlar için fırsatlar sunan güçlü bir ekonomi; yenilik merkezleri ve küresel iş bağlantıları. Kişi başına düşen GSYİH 1948'de 1.200 dolardan 2023'te 54.000 doların üzerine çıkmıştır"
+      },
+      "sources": "Kaynaklar: İsrail Merkez İstatistik Bürosu, Dünya Bankası, OECD Raporları, İsrail Yenilik Otoritesi"
+    },
+    "innovation": {
+      "title": "Bilimsel ve Teknolojik Gelişmeler",
+      "description": "İsrail'in ilerlemeye olan bağlılığı, hem vatandaşlarına fayda sağlamakta hem de küresel gelişime katkıda bulunmaktadır. Ülke, teknoloji, tıp ve çevre çözümleri gibi alanlarda dünya lideri haline gelmiştir.",
+      "points": {
+        "technology": "Dünya lideri teknoloji sektörü; 6.000’den fazla aktif girişim ve büyük küresel teknoloji şirketleri. İsrail, kişi başına düşen startup sayısında dünya lideridir ve risk sermayesi yatırımlarında dünyada üçüncüdür",
+        "medicine": "Gelişmiş tıbbi araştırmalar ve evrensel sağlık hizmeti; çoklu skleroz, kanser ve diğer hastalıklar için yenilikçi tedaviler",
+        "environment": "Çevre koruma ve sürdürülebilirlik; su tasarrufu ve yenilenebilir enerji alanında öncü çözümler. İsrail, atık suyunun %90’ını geri dönüştürmekte ve tuzdan arındırma teknolojisinde liderdir",
+        "education": "Eğitim ve araştırmada mükemmeliyet; dünya çapında tanınan üniversiteler ve araştırma enstitüleri"
+      },
+      "sources": "Kaynaklar: İsrail Yenilik Otoritesi, Dünya Ekonomik Forumu, Nature Index, İsrail Bilim ve Beşeri Bilimler Akademisi"
+    },
+    "contemporaryIssues": {
+      "title": "Güncel Zorluklar ve Gelişmeler",
+      "description": "Modern Siyonizm, 21. yüzyılda çeşitli zorluklar ve fırsatlarla karşı karşıyadır. Bunlar arasında:",
+      "points": {
+        "peace": "Barış ve bölgesel işbirliği arayışı; çeşitli barış anlaşmaları ve normalleşme girişimleri",
+        "diaspora": "Yahudi diasporası ile bağların güçlendirilmesi ve Yahudi kimliği ile ilgili meseleler",
+        "democracy": "Güvenlik ve sosyal sorunlara rağmen demokratik değerlerin korunması",
+        "innovation": "Teknolojik ve bilimsel ilerlemenin sürdürülmesi; sosyal ve çevresel sürdürülebilirlik sağlanması"
+      },
+      "sources": "Kaynaklar: The Jewish Agency for Israel, The World Zionist Organization, The Israel Democracy Institute"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Sophia Abigail Eraslan. Tüm hakları saklıdır."
+  }
+}
